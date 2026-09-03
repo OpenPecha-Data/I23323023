@@ -1,0 +1,23 @@
+id: I23323023
+initial_creation_type: ebook
+source_metadata:
+  id: RCP-GON-03
+  title: ༄༅། །དགོངས་གཅིག་གསལ་བྱེད་ཞུས་ལན་བརྒྱ་དང་གོ་གསུམ་གཅེས་པའི་སྙིང་པོ་མ་རིག་མུན་སེལ་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  author: མཛད་པ་པོ། སྤྱན་སྔ་ཤེས་རབ་འབྱུང་གནས་འབྲི་གུང་གླིང་པ།
+  authors: &id001
+  - མཛད་པ་པོ། སྤྱན་སྔ་ཤེས་རབ་འབྱུང་གནས་འབྲི་གུང་གླིང་པ།
+  sku: RCP-GON-03
+  cover: RCP-GON-03.jpg
+  volume: {}
+ebook_metadata:
+  title: ༄༅། །དགོངས་གཅིག་གསལ་བྱེད་ཞུས་ལན་བརྒྱ་དང་གོ་གསུམ་གཅེས་པའི་སྙིང་པོ་མ་རིག་མུན་སེལ་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  authors: *id001
+  sku: RCP-GON-03
+  cover: RCP-GON-03.jpg
+layers:
+- Author
+- BookTitle
+- Citation
+- Commentary
+- Sabche
+- Tsawa
